@@ -2,7 +2,7 @@
 
 **Note for Windows Users**: For better compatibility with Git and Docker, we recommend using [Git Bash](https://git-scm.com/) instead of the default command prompt or PowerShell.
 
-Follow these steps to start the project:
+Follow these below steps to start the project:
 
 1. **Download the Project**  
    You already have the project downloaded.
